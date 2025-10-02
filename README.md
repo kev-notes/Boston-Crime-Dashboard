@@ -3,6 +3,9 @@
 # Boston Crime Data Analysis Dashboard
 This project presents an interactive dashboard and visualizations for exploring and analyzing Boston crime data. The goal is to identify trends, spatial concentrations, and temporal patterns in criminal activity across the city. This dashboard helps pinpoint when and where crime is most prevalent.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/753704fc-be3d-4447-9269-3004c97d0853" />
+
+
 ### Key Features:
 
 - Geographic Analysis: The interactive map visualizes the geographic concentration of crimes with heatmap and colored markers that suggest the offense type.
